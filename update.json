@@ -1,7 +1,7 @@
 {
-  "versionCode": 1,
-  "versionName": "1.0",
-  "apkUrl": "https://github.com/dairsadru/avtoexpert05/releases/download/v1.0/AvtoExpert.apk",
-  "changelog": "Первая версия приложения «АвтоЭксперт 05».",
+  "versionCode": 2,
+  "versionName": "1.1",
+  "apkUrl": "https://github.com/dairsadru/avtoexpert05/releases/download/v1.1/AvtoExpert.apk",
+  "changelog": "Заливка деталей точно по контуру: цвет повторяет настоящую форму капота, дверей, крыльев и порогов. Обновлён чертёж автомобиля. Нажатие попадает ровно в нужную деталь.",
   "mandatory": false
 }

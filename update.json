@@ -1,8 +1,8 @@
 {
-  "versionCode": 5,
-  "versionName": "1.4",
-  "apkUrl": "https://github.com/dairsadru/avtoexpert05/releases/download/v1.4/AvtoExpert.apk",
-  "changelog": "Фотографии дефектов: снимайте камерой или добавляйте из галереи прямо в пункте осмотра — фото попадают в PDF-отчёт",
-  "sha256": "835130036958c854a15ee16b6028c48f11dc1ae8261654717ceaf514b9aecf97",
+  "versionCode": 6,
+  "versionName": "1.5",
+  "apkUrl": "https://github.com/dairsadru/avtoexpert05/releases/download/v1.5/AvtoExpert.apk",
+  "changelog": "Резервная копия всех данных одним файлом, пароль владельца при добавлении экспертов, исправлен адрес сервера обновлений",
+  "sha256": "ed6ded9c65a0c24d22d734d7dbe908ece972fd80eb5a62bb816e62d217b08d1d",
   "mandatory": false
 }

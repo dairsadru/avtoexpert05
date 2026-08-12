@@ -1,7 +1,8 @@
 {
-  "versionCode": 2,
-  "versionName": "1.1",
-  "apkUrl": "https://github.com/dairsadru/avtoexpert05/releases/download/v1.1/AvtoExpert.apk",
-  "changelog": "Заливка деталей точно по контуру: цвет повторяет настоящую форму капота, дверей, крыльев и порогов. Обновлён чертёж автомобиля. Нажатие попадает ровно в нужную деталь.",
+  "versionCode": 4,
+  "versionName": "1.3",
+  "apkUrl": "https://github.com/dairsadru/avtoexpert05/releases/download/v1.3/AvtoExpert.apk",
+  "changelog": "Проверка контрольной суммы обновлений, разрешение на установку и разделение PDF-генератора",
+  "sha256": "d1ef3babd50683cbaf85c30f9eea9b379e72cf179166629e6f5fec2196673454",
   "mandatory": false
 }

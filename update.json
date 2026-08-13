@@ -1,8 +1,8 @@
 {
-  "versionCode": 15,
-  "versionName": "2.4",
-  "apkUrl": "https://github.com/dairsadru/avtoexpert05/releases/download/v2.4/AvtoExpert.apk",
-  "changelog": "База проверенных авто с поиском по VIN и номеру, просмотр фото и видео. Съёмка видео дефектов",
-  "sha256": "a58fbbba7038906219f62e29c2c69ad41bea054a0038dbab387d9f91d77f9caa",
+  "versionCode": 16,
+  "versionName": "2.5",
+  "apkUrl": "https://github.com/dairsadru/avtoexpert05/releases/download/v2.5/AvtoExpert.apk",
+  "changelog": "Видео обхода автомобиля своей камерой с рамкой-подсказкой: вписываете машину в габарит и снимаете круговой обход",
+  "sha256": "f00f14d85f414674110a6c02568734a18b0fcde6f67efcc2df7c7576fee57f6c",
   "mandatory": false
 }

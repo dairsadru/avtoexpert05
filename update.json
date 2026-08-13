@@ -1,8 +1,8 @@
 {
-  "versionCode": 18,
-  "versionName": "2.7",
-  "apkUrl": "https://github.com/dairsadru/avtoexpert05/releases/download/v2.7/AvtoExpert.apk",
-  "changelog": "Публикация отчёта на сайт одной кнопкой: клиент получает ссылку вместо файла",
-  "sha256": "dc4623683bc39a135755bebb579942449a5aadf3567c9fb6bf410b48c3210251",
+  "versionCode": 19,
+  "versionName": "2.8",
+  "apkUrl": "https://github.com/dairsadru/avtoexpert05/releases/download/v2.8/AvtoExpert.apk",
+  "changelog": "Публикуемый отчёт очищается от данных продавца: на сайт уходит версия без имени, телефона, госномера и цены",
+  "sha256": "b9b26e5a147f4ddd44b5a8e5301153a65e9e3e0b9836645f2f1e91b5f331653c",
   "mandatory": false
 }

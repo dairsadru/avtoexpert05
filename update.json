@@ -1,8 +1,8 @@
 {
-  "versionCode": 7,
-  "versionName": "1.6",
-  "apkUrl": "https://github.com/dairsadru/avtoexpert05/releases/download/v1.6/AvtoExpert.apk",
-  "changelog": "Исправлен выбор деталей на кузовной схеме: бампера, крылья и двери теперь выделяются правильно и целиком. Убран люк/панорама. Добавлена история осмотров по VIN с предупреждением о скрученном пробеге",
-  "sha256": "1729f781144ddf1ebb7fb7965c39d91c56e64bb115192b35c354c1042dcc9962",
+  "versionCode": 8,
+  "versionName": "1.7",
+  "apkUrl": "https://github.com/dairsadru/avtoexpert05/releases/download/v1.7/AvtoExpert.apk",
+  "changelog": "Бампера теперь закрашиваются точно по контуру. На кузовной схеме появились колёса Audi S8 — они не закрашиваются",
+  "sha256": "dc6e45d95c8d57ba4db7183e828539e4c7f0c4e846b69058b9777e9df3eb176d",
   "mandatory": false
 }

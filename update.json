@@ -1,8 +1,8 @@
 {
-  "versionCode": 22,
-  "versionName": "3.1",
-  "apkUrl": "https://github.com/dairsadru/avtoexpert05/releases/download/v3.1/AvtoExpert.apk",
-  "changelog": "Толщиномер: команды и показания идут через одну характеристику, как требует прибор. Добавлена диагностика связи",
-  "sha256": "eb720f9ec1b80307268ba1ec1490a248eaff4677119cf3d797cafbe56e1e2b5e",
+  "versionCode": 23,
+  "versionName": "3.2",
+  "apkUrl": "https://github.com/dairsadru/avtoexpert05/releases/download/v3.2/AvtoExpert.apk",
+  "changelog": "Мастер обхода толщиномером: замеры пишутся в схему сами, 5 точек на деталь, порядок по типу кузова, читается тип основания Fe и NFe",
+  "sha256": "764b8b4c30517ac92c3269d01c6069cf4cd5642dbb3f81dbf98f1c9b400d8dec",
   "mandatory": false
 }

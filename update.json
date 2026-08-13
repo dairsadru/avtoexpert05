@@ -1,8 +1,8 @@
 {
-  "versionCode": 9,
-  "versionName": "1.8",
-  "apkUrl": "https://github.com/dairsadru/avtoexpert05/releases/download/v1.8/AvtoExpert.apk",
-  "changelog": "Кнопки фото теперь видны в каждом пункте осмотра сразу, а не после выбора статуса",
-  "sha256": "d04d24e0b3dae2f6177608dbbcc072d648fb7b278b9774e0812576bb5ab28da4",
+  "versionCode": 10,
+  "versionName": "1.9",
+  "apkUrl": "https://github.com/dairsadru/avtoexpert05/releases/download/v1.9/AvtoExpert.apk",
+  "changelog": "Исправлена главная ошибка: фотографии не сохранялись вообще. Кузовная схема дополнена видами спереди и сзади",
+  "sha256": "28c88242d650edeadb104feb388c494c2855e5734f6242438b83f83174baab5b",
   "mandatory": false
 }

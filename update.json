@@ -1,8 +1,8 @@
 {
-  "versionCode": 6,
-  "versionName": "1.5",
-  "apkUrl": "https://github.com/dairsadru/avtoexpert05/releases/download/v1.5/AvtoExpert.apk",
-  "changelog": "Резервная копия всех данных одним файлом, пароль владельца при добавлении экспертов, исправлен адрес сервера обновлений",
-  "sha256": "ed6ded9c65a0c24d22d734d7dbe908ece972fd80eb5a62bb816e62d217b08d1d",
+  "versionCode": 7,
+  "versionName": "1.6",
+  "apkUrl": "https://github.com/dairsadru/avtoexpert05/releases/download/v1.6/AvtoExpert.apk",
+  "changelog": "Исправлен выбор деталей на кузовной схеме: бампера, крылья и двери теперь выделяются правильно и целиком. Убран люк/панорама. Добавлена история осмотров по VIN с предупреждением о скрученном пробеге",
+  "sha256": "1729f781144ddf1ebb7fb7965c39d91c56e64bb115192b35c354c1042dcc9962",
   "mandatory": false
 }

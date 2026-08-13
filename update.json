@@ -1,8 +1,8 @@
 {
-  "versionCode": 11,
-  "versionName": "2.0",
-  "apkUrl": "https://github.com/dairsadru/avtoexpert05/releases/download/v2.0/AvtoExpert.apk",
-  "changelog": "Силуэт Audi S8 в шапке PDF-отчёта. Схема отметок осталась чертёжной — на ней заливка идёт точно по контуру детали",
-  "sha256": "04d5624734a9baece265a0a77c37b84e1c4656932fe91177103fd56d9195e9d2",
+  "versionCode": 12,
+  "versionName": "2.1",
+  "apkUrl": "https://github.com/dairsadru/avtoexpert05/releases/download/v2.1/AvtoExpert.apk",
+  "changelog": "Из настроек убрано поле адреса сервера обновлений — адрес зашит в приложении",
+  "sha256": "3c2fd17eb3a02235414af2259d9aca7abbf03d4700b53f3909eda7103019dbf7",
   "mandatory": false
 }

@@ -1,8 +1,8 @@
 {
-  "versionCode": 17,
-  "versionName": "2.6",
-  "apkUrl": "https://github.com/dairsadru/avtoexpert05/releases/download/v2.6/AvtoExpert.apk",
-  "changelog": "Электронный отчёт: HTML-файл с фотографиями внутри, снимки открываются нажатием. Открывается в любом браузере без интернета",
-  "sha256": "5559eac41e2552aa3296095465fb3094c7d30654398d93a0f7c5b2173eae8ab6",
+  "versionCode": 18,
+  "versionName": "2.7",
+  "apkUrl": "https://github.com/dairsadru/avtoexpert05/releases/download/v2.7/AvtoExpert.apk",
+  "changelog": "Публикация отчёта на сайт одной кнопкой: клиент получает ссылку вместо файла",
+  "sha256": "dc4623683bc39a135755bebb579942449a5aadf3567c9fb6bf410b48c3210251",
   "mandatory": false
 }

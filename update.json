@@ -1,8 +1,8 @@
 {
-  "versionCode": 16,
-  "versionName": "2.5",
-  "apkUrl": "https://github.com/dairsadru/avtoexpert05/releases/download/v2.5/AvtoExpert.apk",
-  "changelog": "Видео обхода автомобиля своей камерой с рамкой-подсказкой: вписываете машину в габарит и снимаете круговой обход",
-  "sha256": "f00f14d85f414674110a6c02568734a18b0fcde6f67efcc2df7c7576fee57f6c",
+  "versionCode": 17,
+  "versionName": "2.6",
+  "apkUrl": "https://github.com/dairsadru/avtoexpert05/releases/download/v2.6/AvtoExpert.apk",
+  "changelog": "Электронный отчёт: HTML-файл с фотографиями внутри, снимки открываются нажатием. Открывается в любом браузере без интернета",
+  "sha256": "5559eac41e2552aa3296095465fb3094c7d30654398d93a0f7c5b2173eae8ab6",
   "mandatory": false
 }

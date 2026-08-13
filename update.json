@@ -1,8 +1,8 @@
 {
-  "versionCode": 13,
-  "versionName": "2.2",
-  "apkUrl": "https://github.com/dairsadru/avtoexpert05/releases/download/v2.2/AvtoExpert.apk",
-  "changelog": "На схеме настоящие диски Audi S8. Рендер из шапки отчёта убран",
-  "sha256": "7132f1e0b77ab7fce1a24ca52decbc7c3e82ed2698e94afd05eb3700e0a8bf4f",
+  "versionCode": 14,
+  "versionName": "2.3",
+  "apkUrl": "https://github.com/dairsadru/avtoexpert05/releases/download/v2.3/AvtoExpert.apk",
+  "changelog": "Колёса на схеме теперь в размер арок. PDF-отчёт стал крупнее и читабельнее",
+  "sha256": "c808b649104464405f3cfbfd93c756b0be69cbd89842707028930f0fb5b911f5",
   "mandatory": false
 }

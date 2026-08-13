@@ -1,8 +1,8 @@
 {
-  "versionCode": 12,
-  "versionName": "2.1",
-  "apkUrl": "https://github.com/dairsadru/avtoexpert05/releases/download/v2.1/AvtoExpert.apk",
-  "changelog": "Из настроек убрано поле адреса сервера обновлений — адрес зашит в приложении",
-  "sha256": "3c2fd17eb3a02235414af2259d9aca7abbf03d4700b53f3909eda7103019dbf7",
+  "versionCode": 13,
+  "versionName": "2.2",
+  "apkUrl": "https://github.com/dairsadru/avtoexpert05/releases/download/v2.2/AvtoExpert.apk",
+  "changelog": "На схеме настоящие диски Audi S8. Рендер из шапки отчёта убран",
+  "sha256": "7132f1e0b77ab7fce1a24ca52decbc7c3e82ed2698e94afd05eb3700e0a8bf4f",
   "mandatory": false
 }

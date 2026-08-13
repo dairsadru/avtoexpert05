@@ -1,8 +1,8 @@
 {
-  "versionCode": 21,
-  "versionName": "3.0",
-  "apkUrl": "https://github.com/dairsadru/avtoexpert05/releases/download/v3.0/AvtoExpert.apk",
-  "changelog": "Толщиномер: добавлены команды запуска прибора, несколько замеров на деталь, состояние по самому толстому слою",
-  "sha256": "05054e25671f41de36474158ed1b1e1bafb0b27f0d7026b52dde8deb2dcc6848",
+  "versionCode": 22,
+  "versionName": "3.1",
+  "apkUrl": "https://github.com/dairsadru/avtoexpert05/releases/download/v3.1/AvtoExpert.apk",
+  "changelog": "Толщиномер: команды и показания идут через одну характеристику, как требует прибор. Добавлена диагностика связи",
+  "sha256": "eb720f9ec1b80307268ba1ec1490a248eaff4677119cf3d797cafbe56e1e2b5e",
   "mandatory": false
 }

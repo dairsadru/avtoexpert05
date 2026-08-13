@@ -1,8 +1,8 @@
 {
-  "versionCode": 8,
-  "versionName": "1.7",
-  "apkUrl": "https://github.com/dairsadru/avtoexpert05/releases/download/v1.7/AvtoExpert.apk",
-  "changelog": "Бампера теперь закрашиваются точно по контуру. На кузовной схеме появились колёса Audi S8 — они не закрашиваются",
-  "sha256": "dc6e45d95c8d57ba4db7183e828539e4c7f0c4e846b69058b9777e9df3eb176d",
+  "versionCode": 9,
+  "versionName": "1.8",
+  "apkUrl": "https://github.com/dairsadru/avtoexpert05/releases/download/v1.8/AvtoExpert.apk",
+  "changelog": "Кнопки фото теперь видны в каждом пункте осмотра сразу, а не после выбора статуса",
+  "sha256": "d04d24e0b3dae2f6177608dbbcc072d648fb7b278b9774e0812576bb5ab28da4",
   "mandatory": false
 }

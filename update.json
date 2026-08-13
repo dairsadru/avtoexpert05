@@ -1,8 +1,8 @@
 {
-  "versionCode": 10,
-  "versionName": "1.9",
-  "apkUrl": "https://github.com/dairsadru/avtoexpert05/releases/download/v1.9/AvtoExpert.apk",
-  "changelog": "Исправлена главная ошибка: фотографии не сохранялись вообще. Кузовная схема дополнена видами спереди и сзади",
-  "sha256": "28c88242d650edeadb104feb388c494c2855e5734f6242438b83f83174baab5b",
+  "versionCode": 11,
+  "versionName": "2.0",
+  "apkUrl": "https://github.com/dairsadru/avtoexpert05/releases/download/v2.0/AvtoExpert.apk",
+  "changelog": "Силуэт Audi S8 в шапке PDF-отчёта. Схема отметок осталась чертёжной — на ней заливка идёт точно по контуру детали",
+  "sha256": "04d5624734a9baece265a0a77c37b84e1c4656932fe91177103fd56d9195e9d2",
   "mandatory": false
 }

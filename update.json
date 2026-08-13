@@ -1,8 +1,8 @@
 {
-  "versionCode": 20,
-  "versionName": "2.9",
-  "apkUrl": "https://github.com/dairsadru/avtoexpert05/releases/download/v2.9/AvtoExpert.apk",
-  "changelog": "Толщиномер по Bluetooth: замер записывается касанием детали на схеме, состояние ЛКП ставится автоматически, толщина попадает в отчёт",
-  "sha256": "3912acb13ea16c02756f2ae15e88782677f3b541d2a1de6b8fdecf08aef91bea",
+  "versionCode": 21,
+  "versionName": "3.0",
+  "apkUrl": "https://github.com/dairsadru/avtoexpert05/releases/download/v3.0/AvtoExpert.apk",
+  "changelog": "Толщиномер: добавлены команды запуска прибора, несколько замеров на деталь, состояние по самому толстому слою",
+  "sha256": "05054e25671f41de36474158ed1b1e1bafb0b27f0d7026b52dde8deb2dcc6848",
   "mandatory": false
 }

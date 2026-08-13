@@ -1,8 +1,8 @@
 {
-  "versionCode": 14,
-  "versionName": "2.3",
-  "apkUrl": "https://github.com/dairsadru/avtoexpert05/releases/download/v2.3/AvtoExpert.apk",
-  "changelog": "Колёса на схеме теперь в размер арок. PDF-отчёт стал крупнее и читабельнее",
-  "sha256": "c808b649104464405f3cfbfd93c756b0be69cbd89842707028930f0fb5b911f5",
+  "versionCode": 15,
+  "versionName": "2.4",
+  "apkUrl": "https://github.com/dairsadru/avtoexpert05/releases/download/v2.4/AvtoExpert.apk",
+  "changelog": "База проверенных авто с поиском по VIN и номеру, просмотр фото и видео. Съёмка видео дефектов",
+  "sha256": "a58fbbba7038906219f62e29c2c69ad41bea054a0038dbab387d9f91d77f9caa",
   "mandatory": false
 }

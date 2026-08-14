@@ -1,8 +1,8 @@
 {
-  "versionCode": 25,
-  "versionName": "3.4",
-  "apkUrl": "https://github.com/dairsadru/avtoexpert05/releases/download/v3.4/AvtoExpert.apk",
-  "changelog": "Пункты толщиномера дописываются и в старые осмотры, добавлены левый и правый пороги, замеры видны отдельной карточкой в осмотре",
-  "sha256": "6f094830d1332940f52db9a29b7e546f0ed7dd2de33c3a24e06788c1245f5ec6",
+  "versionCode": 26,
+  "versionName": "3.5",
+  "apkUrl": "https://github.com/dairsadru/avtoexpert05/releases/download/v3.5/AvtoExpert.apk",
+  "changelog": "Приём замеров перенесён в фон: обход больше не прерывается при прокрутке экрана",
+  "sha256": "9c09fe6acc9c04e6faf5536ab23b015126d7fa9544d359dd94ee8539f665ff3f",
   "mandatory": false
 }

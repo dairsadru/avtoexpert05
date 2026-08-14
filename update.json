@@ -1,8 +1,8 @@
 {
-  "versionCode": 26,
-  "versionName": "3.5",
-  "apkUrl": "https://github.com/dairsadru/avtoexpert05/releases/download/v3.5/AvtoExpert.apk",
-  "changelog": "Приём замеров перенесён в фон: обход больше не прерывается при прокрутке экрана",
-  "sha256": "9c09fe6acc9c04e6faf5536ab23b015126d7fa9544d359dd94ee8539f665ff3f",
+  "versionCode": 27,
+  "versionName": "3.6",
+  "apkUrl": "https://github.com/dairsadru/avtoexpert05/releases/download/v3.6/AvtoExpert.apk",
+  "changelog": "Схема каждой детали с пятью точками замера: видно не только толщину, но и где именно она снята",
+  "sha256": "89fa97db2a3a7b662c7a71bf3b20a25e2c0a2a29a615260ecf060fd156bc4b23",
   "mandatory": false
 }

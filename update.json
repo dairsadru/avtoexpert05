@@ -1,8 +1,8 @@
 {
-  "versionCode": 54,
-  "versionName": "6.3",
-  "apkUrl": "https://github.com/dairsadru/avtoexpert05/releases/download/v6.3/AvtoExpert.apk",
-  "changelog": "Кнопка прямой связи с эндоскопом под предупреждением: один пакет, без перебора",
-  "sha256": "4a3909138768be95775b25affcaba9006659dffbf8e8bf6d97cf4b78d56a467e",
+  "versionCode": 55,
+  "versionName": "6.4",
+  "apkUrl": "https://github.com/dairsadru/avtoexpert05/releases/download/v6.4/AvtoExpert.apk",
+  "changelog": "Приложение записывает причину аварийного закрытия и показывает её в настройках",
+  "sha256": "75edf672e3ebc02f821223ddba12a1ea341f0251ec6740302c8d0b77e9fdfdc1",
   "mandatory": false
 }

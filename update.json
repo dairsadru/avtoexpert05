@@ -1,8 +1,8 @@
 {
-  "versionCode": 30,
-  "versionName": "3.9",
-  "apkUrl": "https://github.com/dairsadru/avtoexpert05/releases/download/v3.9/AvtoExpert.apk",
-  "changelog": "Эндоскоп по Wi-Fi: живая картинка в приложении, снимок сразу в пункт осмотра. Перед началом — обязательная памятка по технике безопасности",
-  "sha256": "fa71843d3521ef29ef0c945276f162c615a6fc3cdbe54fa2b0c74984bfe82711",
+  "versionCode": 31,
+  "versionName": "4.0",
+  "apkUrl": "https://github.com/dairsadru/avtoexpert05/releases/download/v4.0/AvtoExpert.apk",
+  "changelog": "Определение USB-эндоскопа: приложение проверяет, видит ли телефон камеру в разъёме Type-C",
+  "sha256": "1a3a884d6056ee46c2129edcc992a0770783f69471217f926225b1981e6118dd",
   "mandatory": false
 }

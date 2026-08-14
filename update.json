@@ -1,8 +1,8 @@
 {
-  "versionCode": 52,
-  "versionName": "6.1",
-  "apkUrl": "https://github.com/dairsadru/avtoexpert05/releases/download/v6.1/AvtoExpert.apk",
-  "changelog": "Проверка эндоскопа показывает всё, что видит телефон, сразу при открытии",
-  "sha256": "27363b66cbc6569e910d96690fdc786b18c6b11420a7c7c116bf14ee5419e064",
+  "versionCode": 53,
+  "versionName": "6.2",
+  "apkUrl": "https://github.com/dairsadru/avtoexpert05/releases/download/v6.2/AvtoExpert.apk",
+  "changelog": "Перенос снимков и видео с эндоскопа пачкой — до двадцати файлов за раз",
+  "sha256": "e824352d7e63b5fc33b37313ce89b3f5a1e80cc4912cc7d2e99f2d0b29f81979",
   "mandatory": false
 }

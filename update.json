@@ -1,8 +1,8 @@
 {
-  "versionCode": 57,
-  "versionName": "6.6",
-  "apkUrl": "https://github.com/dairsadru/avtoexpert05/releases/download/v6.6/AvtoExpert.apk",
-  "changelog": "Исправлено падение приложения при нажатии кнопки связи с эндоскопом",
-  "sha256": "e74debd337acf2de5450101785a424656222f7497967ac4fdd0430bce0b0b685",
+  "versionCode": 58,
+  "versionName": "6.7",
+  "apkUrl": "https://github.com/dairsadru/avtoexpert05/releases/download/v6.7/AvtoExpert.apk",
+  "changelog": "Убрана связь с эндоскопом напрямую: она выключала телефон",
+  "sha256": "7f9e9af741594d9c090d0b851b795de5dc2f4f854611a24197013d65b2e7d8cd",
   "mandatory": false
 }

@@ -1,8 +1,8 @@
 {
-  "versionCode": 36,
-  "versionName": "4.5",
-  "apkUrl": "https://github.com/dairsadru/avtoexpert05/releases/download/v4.5/AvtoExpert.apk",
-  "changelog": "Проба эндоскопа сначала слушает прибор, потом спрашивает — так видно больше",
-  "sha256": "114cadb83d8caf574ebc99dd1efbbcff342ba44ef51aa660fbbc8cc2325f82b3",
+  "versionCode": 37,
+  "versionName": "4.6",
+  "apkUrl": "https://github.com/dairsadru/avtoexpert05/releases/download/v4.6/AvtoExpert.apk",
+  "changelog": "Подбор рукопожатия с эндоскопом; в пункте про эндоскоп больше не открывается камера телефона",
+  "sha256": "b090ff7548cae7005a7d369eb01e30fd435bca6bb442ecb9d72963248249862f",
   "mandatory": false
 }

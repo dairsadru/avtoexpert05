@@ -1,8 +1,8 @@
 {
-  "versionCode": 24,
-  "versionName": "3.3",
-  "apkUrl": "https://github.com/dairsadru/avtoexpert05/releases/download/v3.3/AvtoExpert.apk",
-  "changelog": "Замеры толщиномера уходят в чек-лист «Кузов и геометрия» отдельным пунктом на каждую деталь. Кузовная схема снова только под вашу оценку — прибор не видит замену детали",
-  "sha256": "6eea3073d11b4225011d1976ce9ee3ecfc65874fb4eaf7a0b193d6aeb3c38242",
+  "versionCode": 25,
+  "versionName": "3.4",
+  "apkUrl": "https://github.com/dairsadru/avtoexpert05/releases/download/v3.4/AvtoExpert.apk",
+  "changelog": "Пункты толщиномера дописываются и в старые осмотры, добавлены левый и правый пороги, замеры видны отдельной карточкой в осмотре",
+  "sha256": "6f094830d1332940f52db9a29b7e546f0ed7dd2de33c3a24e06788c1245f5ec6",
   "mandatory": false
 }

@@ -1,8 +1,8 @@
 {
-  "versionCode": 56,
-  "versionName": "6.5",
-  "apkUrl": "https://github.com/dairsadru/avtoexpert05/releases/download/v6.5/AvtoExpert.apk",
-  "changelog": "Понятная причина неудачи при связи с эндоскопом и кнопка скопировать результат",
-  "sha256": "f9d0138fcf6eedaa7111d8b93ee92bed35c29500be9c95e8ee5c379d90c5eb10",
+  "versionCode": 57,
+  "versionName": "6.6",
+  "apkUrl": "https://github.com/dairsadru/avtoexpert05/releases/download/v6.6/AvtoExpert.apk",
+  "changelog": "Исправлено падение приложения при нажатии кнопки связи с эндоскопом",
+  "sha256": "e74debd337acf2de5450101785a424656222f7497967ac4fdd0430bce0b0b685",
   "mandatory": false
 }

@@ -1,8 +1,8 @@
 {
-  "versionCode": 40,
-  "versionName": "4.9",
-  "apkUrl": "https://github.com/dairsadru/avtoexpert05/releases/download/v4.9/AvtoExpert.apk",
-  "changelog": "Проверка, отвечает ли эндоскоп на самом деле или возвращается наше же",
-  "sha256": "698ca1950fccb254007e22ee2c45ef5c339ad9a32a617ccd14a4a9540b510a06",
+  "versionCode": 41,
+  "versionName": "5.0",
+  "apkUrl": "https://github.com/dairsadru/avtoexpert05/releases/download/v5.0/AvtoExpert.apk",
+  "changelog": "На экране эндоскопа главным стало проводное подключение, Wi-Fi убран под ссылку",
+  "sha256": "990194bed2c8fab4e3abb357b34d546762cad3ec25f06b4813ab2a021fb41a97",
   "mandatory": false
 }

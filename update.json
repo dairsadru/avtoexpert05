@@ -1,8 +1,8 @@
 {
-  "versionCode": 32,
-  "versionName": "4.1",
-  "apkUrl": "https://github.com/dairsadru/avtoexpert05/releases/download/v4.1/AvtoExpert.apk",
-  "changelog": "Эндоскоп теперь виден в Настройках — там же проверка кабельного подключения",
-  "sha256": "87e17a11ce98a03e136c146b4c82f6a5cfb4c9c56a0313124008875b924a797f",
+  "versionCode": 33,
+  "versionName": "4.2",
+  "apkUrl": "https://github.com/dairsadru/avtoexpert05/releases/download/v4.2/AvtoExpert.apk",
+  "changelog": "Проверка эндоскопа следит за разъёмом полминуты и подсказывает, что мешает подключению",
+  "sha256": "7888afba2fede7b79c673e73125df8d64e3c9f1a01b927897ace8bbde75e3f55",
   "mandatory": false
 }

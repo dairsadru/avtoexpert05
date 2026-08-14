@@ -1,8 +1,8 @@
 {
-  "versionCode": 48,
-  "versionName": "5.7",
-  "apkUrl": "https://github.com/dairsadru/avtoexpert05/releases/download/v5.7/AvtoExpert.apk",
-  "changelog": "Приложение подсказывает, какой путь к картинке доступен на этом телефоне",
-  "sha256": "9dbd252187ed1128c4af956f225049dec8d1e0aaf1dff34a988f7433ac64dfb3",
+  "versionCode": 49,
+  "versionName": "5.8",
+  "apkUrl": "https://github.com/dairsadru/avtoexpert05/releases/download/v5.8/AvtoExpert.apk",
+  "changelog": "Добавлена библиотека UVC: картинка с USB-камер, которые телефон не отдаёт сам",
+  "sha256": "d36b79264be7fde0c7b5e9c810c3f145cbef074b117242b604e6535b8968b051",
   "mandatory": false
 }

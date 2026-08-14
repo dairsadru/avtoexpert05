@@ -1,8 +1,8 @@
 {
-  "versionCode": 34,
-  "versionName": "4.3",
-  "apkUrl": "https://github.com/dairsadru/avtoexpert05/releases/download/v4.3/AvtoExpert.apk",
-  "changelog": "Эндоскоп определяется как аксессуар, пункт осмотра цилиндров в разделе Двигатель",
-  "sha256": "b9551edbcbbcd1bbe43a18607131a3539d7d129c46ad83209e0a405040273457",
+  "versionCode": 35,
+  "versionName": "4.4",
+  "apkUrl": "https://github.com/dairsadru/avtoexpert05/releases/download/v4.4/AvtoExpert.apk",
+  "changelog": "Приложение само подключается к эндоскопу-аксессуару и показывает, что тот отвечает",
+  "sha256": "3d30e6b04f4a409563258a34895ac85a4160afa26c449f1eae601132e8b70a07",
   "mandatory": false
 }

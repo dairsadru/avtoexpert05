@@ -1,8 +1,8 @@
 {
-  "versionCode": 29,
-  "versionName": "3.8",
-  "apkUrl": "https://github.com/dairsadru/avtoexpert05/releases/download/v3.8/AvtoExpert.apk",
-  "changelog": "Схемы деталей с точками замеров теперь попадают и в PDF, и в электронный отчёт",
-  "sha256": "506b8d4ccaadd067e5eb557384b874e0ec0dba20a7750f74b5cd292ff9ef6ecb",
+  "versionCode": 30,
+  "versionName": "3.9",
+  "apkUrl": "https://github.com/dairsadru/avtoexpert05/releases/download/v3.9/AvtoExpert.apk",
+  "changelog": "Эндоскоп по Wi-Fi: живая картинка в приложении, снимок сразу в пункт осмотра. Перед началом — обязательная памятка по технике безопасности",
+  "sha256": "fa71843d3521ef29ef0c945276f162c615a6fc3cdbe54fa2b0c74984bfe82711",
   "mandatory": false
 }

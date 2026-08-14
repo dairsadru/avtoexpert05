@@ -1,8 +1,8 @@
 {
-  "versionCode": 23,
-  "versionName": "3.2",
-  "apkUrl": "https://github.com/dairsadru/avtoexpert05/releases/download/v3.2/AvtoExpert.apk",
-  "changelog": "Мастер обхода толщиномером: замеры пишутся в схему сами, 5 точек на деталь, порядок по типу кузова, читается тип основания Fe и NFe",
-  "sha256": "764b8b4c30517ac92c3269d01c6069cf4cd5642dbb3f81dbf98f1c9b400d8dec",
+  "versionCode": 24,
+  "versionName": "3.3",
+  "apkUrl": "https://github.com/dairsadru/avtoexpert05/releases/download/v3.3/AvtoExpert.apk",
+  "changelog": "Замеры толщиномера уходят в чек-лист «Кузов и геометрия» отдельным пунктом на каждую деталь. Кузовная схема снова только под вашу оценку — прибор не видит замену детали",
+  "sha256": "6eea3073d11b4225011d1976ce9ee3ecfc65874fb4eaf7a0b193d6aeb3c38242",
   "mandatory": false
 }

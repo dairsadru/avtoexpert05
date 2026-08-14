@@ -1,8 +1,8 @@
 {
-  "versionCode": 27,
-  "versionName": "3.6",
-  "apkUrl": "https://github.com/dairsadru/avtoexpert05/releases/download/v3.6/AvtoExpert.apk",
-  "changelog": "Схема каждой детали с пятью точками замера: видно не только толщину, но и где именно она снята",
-  "sha256": "89fa97db2a3a7b662c7a71bf3b20a25e2c0a2a29a615260ecf060fd156bc4b23",
+  "versionCode": 28,
+  "versionName": "3.7",
+  "apkUrl": "https://github.com/dairsadru/avtoexpert05/releases/download/v3.7/AvtoExpert.apk",
+  "changelog": "Схемы капота, крыши, багажника и задних крыльев теперь крупные и правильные. Пороги меряются в трёх точках. В комментарии только итог",
+  "sha256": "fe13537e8692073836d4ab10885886f37c3948cb220389ba2c3c9484d871ed70",
   "mandatory": false
 }

@@ -1,8 +1,8 @@
 {
-  "versionCode": 42,
-  "versionName": "5.1",
-  "apkUrl": "https://github.com/dairsadru/avtoexpert05/releases/download/v5.1/AvtoExpert.apk",
-  "changelog": "Попытка включить камеру эндоскопа: прибор принимает команды 5, 8 и 10",
-  "sha256": "c1506f22893bd57b3e298b3d32e6d0655381a3c5123d33c5135769574c7a0a81",
+  "versionCode": 43,
+  "versionName": "5.2",
+  "apkUrl": "https://github.com/dairsadru/avtoexpert05/releases/download/v5.2/AvtoExpert.apk",
+  "changelog": "Исправлено зависание при опросе эндоскопа: результат теперь появляется по шагам",
+  "sha256": "998354b336a08ad4fb6a2be9a99eab0197e5d5191d2242d230e2ac78c6613752",
   "mandatory": false
 }

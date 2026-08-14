@@ -1,8 +1,8 @@
 {
-  "versionCode": 51,
-  "versionName": "6.0",
-  "apkUrl": "https://github.com/dairsadru/avtoexpert05/releases/download/v6.0/AvtoExpert.apk",
-  "changelog": "Проверка USB отвечает сразу и включает показ картинки, как только прибор нашёлся",
-  "sha256": "8f1d5a00e79293eab3148402ff6118c019b3c26c5f399bab86d245352e378770",
+  "versionCode": 52,
+  "versionName": "6.1",
+  "apkUrl": "https://github.com/dairsadru/avtoexpert05/releases/download/v6.1/AvtoExpert.apk",
+  "changelog": "Проверка эндоскопа показывает всё, что видит телефон, сразу при открытии",
+  "sha256": "27363b66cbc6569e910d96690fdc786b18c6b11420a7c7c116bf14ee5419e064",
   "mandatory": false
 }

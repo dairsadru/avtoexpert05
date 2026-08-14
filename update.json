@@ -1,8 +1,8 @@
 {
-  "versionCode": 47,
-  "versionName": "5.6",
-  "apkUrl": "https://github.com/dairsadru/avtoexpert05/releases/download/v5.6/AvtoExpert.apk",
-  "changelog": "Картинка с UVC-эндоскопа прямо в приложении и снимок в осмотр",
-  "sha256": "7444cf561bd0b9d7839ece0cd49f67f381b5c6095524efa107eabe50b0fe6f13",
+  "versionCode": 48,
+  "versionName": "5.7",
+  "apkUrl": "https://github.com/dairsadru/avtoexpert05/releases/download/v5.7/AvtoExpert.apk",
+  "changelog": "Приложение подсказывает, какой путь к картинке доступен на этом телефоне",
+  "sha256": "9dbd252187ed1128c4af956f225049dec8d1e0aaf1dff34a988f7433ac64dfb3",
   "mandatory": false
 }

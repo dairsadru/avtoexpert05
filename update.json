@@ -1,8 +1,8 @@
 {
-  "versionCode": 37,
-  "versionName": "4.6",
-  "apkUrl": "https://github.com/dairsadru/avtoexpert05/releases/download/v4.6/AvtoExpert.apk",
-  "changelog": "Подбор рукопожатия с эндоскопом; в пункте про эндоскоп больше не открывается камера телефона",
-  "sha256": "b090ff7548cae7005a7d369eb01e30fd435bca6bb442ecb9d72963248249862f",
+  "versionCode": 38,
+  "versionName": "4.7",
+  "apkUrl": "https://github.com/dairsadru/avtoexpert05/releases/download/v4.7/AvtoExpert.apk",
+  "changelog": "Снимок из приложения эндоскопа переносится кнопкой Поделиться; исправлено подключение к Wi-Fi камерам",
+  "sha256": "5d22c03734564aa1a4967b0587da78b11bdd585b4036e7e209c55c3f3c3d291c",
   "mandatory": false
 }

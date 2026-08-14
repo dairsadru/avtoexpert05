@@ -1,8 +1,8 @@
 {
-  "versionCode": 44,
-  "versionName": "5.3",
-  "apkUrl": "https://github.com/dairsadru/avtoexpert05/releases/download/v5.3/AvtoExpert.apk",
-  "changelog": "Чтение из эндоскопа в отдельном потоке: прибор снова отвечает",
-  "sha256": "a613e648b4a74bbfa3d965a809665386da4e0baba953ec05bf318c4ab0cbdd99",
+  "versionCode": 45,
+  "versionName": "5.4",
+  "apkUrl": "https://github.com/dairsadru/avtoexpert05/releases/download/v5.4/AvtoExpert.apk",
+  "changelog": "Убран перебор команд эндоскопа: он мог выключать телефон. Осталась только безопасная проверка связи",
+  "sha256": "5f9fe0675652f0b1d00ecee2ae7eb954a96a0a9bb193c8cb78d41ba8ee409105",
   "mandatory": false
 }

@@ -1,8 +1,8 @@
 {
-  "versionCode": 43,
-  "versionName": "5.2",
-  "apkUrl": "https://github.com/dairsadru/avtoexpert05/releases/download/v5.2/AvtoExpert.apk",
-  "changelog": "Исправлено зависание при опросе эндоскопа: результат теперь появляется по шагам",
-  "sha256": "998354b336a08ad4fb6a2be9a99eab0197e5d5191d2242d230e2ac78c6613752",
+  "versionCode": 44,
+  "versionName": "5.3",
+  "apkUrl": "https://github.com/dairsadru/avtoexpert05/releases/download/v5.3/AvtoExpert.apk",
+  "changelog": "Чтение из эндоскопа в отдельном потоке: прибор снова отвечает",
+  "sha256": "a613e648b4a74bbfa3d965a809665386da4e0baba953ec05bf318c4ab0cbdd99",
   "mandatory": false
 }

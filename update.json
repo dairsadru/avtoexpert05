@@ -1,8 +1,8 @@
 {
-  "versionCode": 46,
-  "versionName": "5.5",
-  "apkUrl": "https://github.com/dairsadru/avtoexpert05/releases/download/v5.5/AvtoExpert.apk",
-  "changelog": "Приложение больше не обращается к эндоскопу: это выключало телефон",
-  "sha256": "c77c2ab7bf9732b41bf97d70c69d6fbd5e0e772952a8a135a9f8df9960ab9d8f",
+  "versionCode": 47,
+  "versionName": "5.6",
+  "apkUrl": "https://github.com/dairsadru/avtoexpert05/releases/download/v5.6/AvtoExpert.apk",
+  "changelog": "Картинка с UVC-эндоскопа прямо в приложении и снимок в осмотр",
+  "sha256": "7444cf561bd0b9d7839ece0cd49f67f381b5c6095524efa107eabe50b0fe6f13",
   "mandatory": false
 }

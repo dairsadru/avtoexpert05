@@ -1,8 +1,8 @@
 {
-  "versionCode": 63,
-  "versionName": "7.4",
-  "apkUrl": "https://github.com/dairsadru/avtoexpert05/releases/download/v7.4/AvtoExpert.apk",
-  "changelog": "Фирменный знак в приложении и отчётах",
-  "sha256": "05630e4c4185f9c262c0ba1c6c431c148aa48f9f702e9c2f537588d5cf94a75a",
+  "versionCode": 64,
+  "versionName": "7.5",
+  "apkUrl": "https://github.com/dairsadru/avtoexpert05/releases/download/v7.5/AvtoExpert.apk",
+  "changelog": "Новая иконка приложения — фирменная плашка с золотой рамкой",
+  "sha256": "9e8d84082b399844f2fa4ba4a527428a4acb6fe24fdec1b4a9a48e50bb846955",
   "mandatory": false
 }

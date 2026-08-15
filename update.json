@@ -1,8 +1,8 @@
 {
-  "versionCode": 61,
-  "versionName": "7.2",
-  "apkUrl": "https://github.com/dairsadru/avtoexpert05/releases/download/v7.2/AvtoExpert.apk",
-  "changelog": "Приложение снова 13 МБ: распознавание VIN больше не тянет модель внутрь",
-  "sha256": "3c9661a1ddd5840f85642684da51c42e20b2994dd24ca445207c4709b8e3751d",
+  "versionCode": 62,
+  "versionName": "7.3",
+  "apkUrl": "https://github.com/dairsadru/avtoexpert05/releases/download/v7.3/AvtoExpert.apk",
+  "changelog": "После сканирования VIN модель подтягивается из открытой базы, если есть связь",
+  "sha256": "15376a37b8da922430fe3a2b848d404c786c0d49a65546c9360d24bf46c4a07f",
   "mandatory": false
 }

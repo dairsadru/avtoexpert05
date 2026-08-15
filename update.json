@@ -1,8 +1,8 @@
 {
-  "versionCode": 59,
-  "versionName": "7.0",
-  "apkUrl": "https://github.com/dairsadru/avtoexpert05/releases/download/v7.0/AvtoExpert.apk",
-  "changelog": "Считывание VIN камерой, главное фото в начале отчёта, пробные осмотры не публикуются, очистка базы",
-  "sha256": "6b7f682d55f2a4ea4760a20df651459a3d9a4a999dfd9b5cab698e660ce11664",
+  "versionCode": 60,
+  "versionName": "7.1",
+  "apkUrl": "https://github.com/dairsadru/avtoexpert05/releases/download/v7.1/AvtoExpert.apk",
+  "changelog": "Справочник на 2267 моделей; VIN подставляет марку и год без интернета",
+  "sha256": "52c6667beb3ad9efc8601c7ae953206997c68ec44226f93c9e2e13bb87902075",
   "mandatory": false
 }

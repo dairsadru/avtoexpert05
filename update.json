@@ -1,8 +1,8 @@
 {
-  "versionCode": 62,
-  "versionName": "7.3",
-  "apkUrl": "https://github.com/dairsadru/avtoexpert05/releases/download/v7.3/AvtoExpert.apk",
-  "changelog": "После сканирования VIN модель подтягивается из открытой базы, если есть связь",
-  "sha256": "15376a37b8da922430fe3a2b848d404c786c0d49a65546c9360d24bf46c4a07f",
+  "versionCode": 63,
+  "versionName": "7.4",
+  "apkUrl": "https://github.com/dairsadru/avtoexpert05/releases/download/v7.4/AvtoExpert.apk",
+  "changelog": "Фирменный знак в приложении и отчётах",
+  "sha256": "05630e4c4185f9c262c0ba1c6c431c148aa48f9f702e9c2f537588d5cf94a75a",
   "mandatory": false
 }

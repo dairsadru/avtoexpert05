@@ -1,8 +1,8 @@
 {
-  "versionCode": 60,
-  "versionName": "7.1",
-  "apkUrl": "https://github.com/dairsadru/avtoexpert05/releases/download/v7.1/AvtoExpert.apk",
-  "changelog": "Справочник на 2267 моделей; VIN подставляет марку и год без интернета",
-  "sha256": "52c6667beb3ad9efc8601c7ae953206997c68ec44226f93c9e2e13bb87902075",
+  "versionCode": 61,
+  "versionName": "7.2",
+  "apkUrl": "https://github.com/dairsadru/avtoexpert05/releases/download/v7.2/AvtoExpert.apk",
+  "changelog": "Приложение снова 13 МБ: распознавание VIN больше не тянет модель внутрь",
+  "sha256": "3c9661a1ddd5840f85642684da51c42e20b2994dd24ca445207c4709b8e3751d",
   "mandatory": false
 }

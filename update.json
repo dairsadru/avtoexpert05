@@ -1,8 +1,8 @@
 {
-  "versionCode": 58,
-  "versionName": "6.7",
-  "apkUrl": "https://github.com/dairsadru/avtoexpert05/releases/download/v6.7/AvtoExpert.apk",
-  "changelog": "Убрана связь с эндоскопом напрямую: она выключала телефон",
-  "sha256": "7f9e9af741594d9c090d0b851b795de5dc2f4f854611a24197013d65b2e7d8cd",
+  "versionCode": 59,
+  "versionName": "7.0",
+  "apkUrl": "https://github.com/dairsadru/avtoexpert05/releases/download/v7.0/AvtoExpert.apk",
+  "changelog": "Считывание VIN камерой, главное фото в начале отчёта, пробные осмотры не публикуются, очистка базы",
+  "sha256": "6b7f682d55f2a4ea4760a20df651459a3d9a4a999dfd9b5cab698e660ce11664",
   "mandatory": false
 }

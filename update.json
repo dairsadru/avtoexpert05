@@ -1,8 +1,8 @@
 {
-  "versionCode": 65,
-  "versionName": "7.6",
-  "apkUrl": "https://github.com/dairsadru/avtoexpert05/releases/download/v7.6/AvtoExpert.apk",
-  "changelog": "Новый знак компании на экранах, в отчётах и на сайте",
-  "sha256": "db1c4025b47375ab91f6276afa3adbd6c9d63eaf229efffc66c7d619608adcb8",
+  "versionCode": 66,
+  "versionName": "7.7",
+  "apkUrl": "https://github.com/dairsadru/avtoexpert05/releases/download/v7.7/AvtoExpert.apk",
+  "changelog": "Осмотр идёт страницами: следующая проверка открывается после отметки текущей",
+  "sha256": "9d2c6779f3d291bb8c09796a264c6735424d37d55592312129bbb50bc644ff86",
   "mandatory": false
 }

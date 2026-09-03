@@ -1,8 +1,8 @@
 {
-  "versionCode": 66,
-  "versionName": "7.7",
-  "apkUrl": "https://github.com/dairsadru/avtoexpert05/releases/download/v7.7/AvtoExpert.apk",
-  "changelog": "Осмотр идёт страницами: следующая проверка открывается после отметки текущей",
-  "sha256": "9d2c6779f3d291bb8c09796a264c6735424d37d55592312129bbb50bc644ff86",
+  "versionCode": 67,
+  "versionName": "7.8",
+  "apkUrl": "https://github.com/dairsadru/avtoexpert05/releases/download/v7.8/AvtoExpert.apk",
+  "changelog": "Осмотр больше не теряется при одновременном сохранении",
+  "sha256": "d8867e322f3ae2821eb0d9e2d5365540012bf3952f136b7eb8dc3c40f803d6ae",
   "mandatory": false
 }
